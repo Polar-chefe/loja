@@ -1,6 +1,6 @@
 Olá me chamo 
 -Mateus andrade
-Esse reositirio server para vc que quer fazer seu site
+Esse repositirio server para vc que quer fazer seu site.
 Esse projeto ja esta configurado,ent mude só oque está marcado.
 
 OBS; SE MUDAR O NOME DA CLASS MUDE TBM NA "STYLE"
